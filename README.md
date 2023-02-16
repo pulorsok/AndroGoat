@@ -2,7 +2,7 @@
 
 I strongly believe this AndroGoat will help many people to learn Android Application Security Testing.
 
-test1234
+test1234asd
 
 ***Happy learning***
 
